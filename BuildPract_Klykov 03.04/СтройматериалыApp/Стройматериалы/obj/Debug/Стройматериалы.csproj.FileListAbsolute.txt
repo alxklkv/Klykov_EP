@@ -1,0 +1,39 @@
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.exe.config
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.exe
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.pdb
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.AssemblyReference.cache
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.SuggestedBindingRedirects.cache
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\View\MainWindow.g.cs
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\App.g.cs
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы_MarkupCompile.cache
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы_MarkupCompile.lref
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\View\MainWindow.baml
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.g.resources
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.Properties.Resources.resources
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.GenerateResource.cache
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.CoreCompileInputs.cache
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.exe
+D:\IS-33\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.pdb
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.exe.config
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.exe
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\Стройматериалы.pdb
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\EntityFramework.dll
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\EntityFramework.SqlServer.dll
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\EntityFramework.xml
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\EntityFramework.SqlServer.xml
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\bin\Debug\ru\EntityFramework.resources.dll
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.AssemblyReference.cache
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.SuggestedBindingRedirects.cache
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\View\MainWindow.g.cs
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\App.g.cs
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы_Content.g.cs
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы_MarkupCompile.cache
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы_MarkupCompile.lref
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\View\MainWindow.baml
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.g.resources
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.Properties.Resources.resources
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.GenerateResource.cache
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.CoreCompileInputs.cache
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.csproj.CopyComplete
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.exe
+D:\УП\03.04 День 1\Klykov\Стройматериалы\Стройматериалы\obj\Debug\Стройматериалы.pdb
