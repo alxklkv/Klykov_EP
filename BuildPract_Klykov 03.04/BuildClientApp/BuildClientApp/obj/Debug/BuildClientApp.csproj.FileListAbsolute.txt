@@ -1,0 +1,74 @@
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe.config
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.pdb
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.AssemblyReference.cache
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.SuggestedBindingRedirects.cache
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\App.g.cs
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.cache
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.lref
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.g.resources
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.Properties.Resources.resources
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.GenerateResource.cache
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CoreCompileInputs.cache
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.exe
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.pdb
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.dll
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.xml
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.g.cs
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_Content.g.cs
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.baml
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CopyComplete
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.g.cs
+D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.baml
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe.config
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.pdb
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.dll
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.xml
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.SuggestedBindingRedirects.cache
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.g.cs
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.g.cs
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\App.g.cs
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_Content.g.cs
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.cache
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.lref
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.baml
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.baml
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.g.resources
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.Properties.Resources.resources
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.GenerateResource.cache
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CoreCompileInputs.cache
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CopyComplete
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.exe
+D:\УП\05.04\Klykov\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.pdb
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe.config
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.exe
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\BuildClientApp.pdb
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.dll
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.xml
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.AssemblyReference.cache
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.SuggestedBindingRedirects.cache
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.g.cs
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.g.cs
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\App.g.cs
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_Content.g.cs
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.cache
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp_MarkupCompile.lref
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\View\MainWindow.baml
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\View\SuccessAuth.baml
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.g.resources
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.Properties.Resources.resources
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.GenerateResource.cache
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CoreCompileInputs.cache
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.csproj.CopyComplete
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.exe
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\BuildClientApp.pdb
