@@ -5,9 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BuildClientApp.View"
         mc:Ignorable="d"
-        Title="SuccessAuth" Height="450" Width="800"
-        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+        Title="Стройматериалы: Таблица" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+         <StackPanel Orientation="Vertical" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top">
+               <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Добавить" Background="#FF498C51" Foreground="White" Click="Add_btn"/> 
+                <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Изменить" Background="#FF498C51" Foreground="White"/> 
+                <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Удалить" Background="#FF498C51" Foreground="White"/> 
+            </StackPanel>
+        <DataGrid Name="Table" AutoGenerateColumns="True" Grid.Column="1">
+           
+        </DataGrid>
+        
         
     </Grid>
 </Window>

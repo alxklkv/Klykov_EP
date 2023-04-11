@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BuildClientApp.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,16 @@ namespace BuildClientApp.View
         public SuccessAuth()
         {
             InitializeComponent();
+
+            var products = AppData.db.User.ToList();
+            Table.ItemsSource= products;
+
+        }
+
+        private void Add_btn(object sender, RoutedEventArgs e)
+        {
+            AddWindow window = new AddWindow();
+            window.Show();
         }
     }
 }

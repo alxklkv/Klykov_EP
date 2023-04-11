@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\IS-33\Klykov\BuildClientApp\BuildClientApp\obj\Debug\
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\obj\Debug\
 BuildClientApp
 none
 false
 DEBUG;TRACE
-D:\IS-33\Klykov\BuildClientApp\BuildClientApp\App.xaml
-21656651006
+D:\УП\03.04 День 1\Klykov\Pract_1 03.04\BuildPract_Klykov 03.04\BuildClientApp\BuildClientApp\App.xaml
+3-1540124210
 2809769147
-18921868520
-18436439061
-View\MainWindow.xaml;View\SuccessAuth.xaml;
+191110429244
+18463237933
+View\AddWindow.xaml;View\MainWindow.xaml;View\SuccessAuth.xaml;
 
 True
 

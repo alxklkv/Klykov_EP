@@ -97,9 +97,16 @@
     </Compile>
     <Compile Include="ViewModel\Auth.cs" />
     <Compile Include="ViewModel\BaseVM.cs" />
+    <Compile Include="View\AddWindow.xaml.cs">
+      <DependentUpon>AddWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\SuccessAuth.xaml.cs">
       <DependentUpon>SuccessAuth.xaml</DependentUpon>
     </Compile>
+    <Page Include="View\AddWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
