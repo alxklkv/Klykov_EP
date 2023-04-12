@@ -95,6 +95,7 @@
     <Compile Include="Model\User.cs">
       <DependentUpon>BuildModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="ViewModel\ApplicationWork.cs" />
     <Compile Include="ViewModel\Auth.cs" />
     <Compile Include="ViewModel\BaseVM.cs" />
     <Compile Include="View\AddWindow.xaml.cs">

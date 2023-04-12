@@ -30,7 +30,7 @@
                       DisplayMemberPath="RoleName" />
 
             <Button Content="Добавить"
-                    Click="Save_btn" Margin="0 15 0 0"/>
+                    Click="btn_save" Margin="0 15 0 0"/>
 
         </StackPanel>
         

@@ -33,6 +33,22 @@ namespace BuildClientApp.View
         {
             AddWindow window = new AddWindow();
             window.Show();
+           
+            
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if(MessageBox.Show("Вы действительно хотите удалить пользователя?", "Уведомление", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+            {
+                var CurrentUser = Table.SelectedItem as User;
+                AppData.db.User.Remove(CurrentUser);
+                AppData.db.SaveChanges();
+
+                Table.ItemsSource = AppData.db.User.ToList();
+                MessageBox.Show("Успешно");
+            }
         }
     }
 }

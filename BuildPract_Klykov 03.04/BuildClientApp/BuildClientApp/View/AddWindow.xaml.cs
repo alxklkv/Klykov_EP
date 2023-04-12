@@ -1,4 +1,5 @@
 ﻿using BuildClientApp.Model;
+using BuildClientApp.View;
 using BuildClientApp.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -27,7 +28,13 @@ namespace BuildClientApp.View
             CmbRole.ItemsSource = AppData.db.Role.ToList();
         }
 
-        private void Save_btn(object sender, RoutedEventArgs e)
+        public void Load(object sender, RoutedEventArgs e)
+        {
+          
+
+        }
+
+        private void btn_save(object sender, RoutedEventArgs e)
         {
             User people = new User();
             people.UserSurname = SnmTxb.Text;
@@ -41,10 +48,16 @@ namespace BuildClientApp.View
 
             AppData.db.User.Add(people);
             AppData.db.SaveChanges();
-
+            
+            ApplicationWork a = new ApplicationWork();
+            a.Save_it();
+            
             MessageBox.Show("Пользователь был добавлен в базу");
 
             
+           
+           
+
         }
     }
 }

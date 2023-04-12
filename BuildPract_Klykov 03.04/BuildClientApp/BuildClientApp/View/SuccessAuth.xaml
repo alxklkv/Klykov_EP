@@ -15,7 +15,7 @@
          <StackPanel Orientation="Vertical" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top">
                <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Добавить" Background="#FF498C51" Foreground="White" Click="Add_btn"/> 
                 <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Изменить" Background="#FF498C51" Foreground="White"/> 
-                <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Удалить" Background="#FF498C51" Foreground="White"/> 
+                <Button Width="125" Height="32" HorizontalAlignment="Left" Margin=" 10 10 10 0 " VerticalAlignment="Top" Content="Удалить" Background="#FF498C51" Foreground="White" Click="Button_Click"/> 
             </StackPanel>
         <DataGrid Name="Table" AutoGenerateColumns="True" Grid.Column="1">
            
