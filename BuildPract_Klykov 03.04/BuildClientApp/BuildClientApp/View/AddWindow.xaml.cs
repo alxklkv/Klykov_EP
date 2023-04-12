@@ -49,8 +49,9 @@ namespace BuildClientApp.View
             AppData.db.User.Add(people);
             AppData.db.SaveChanges();
             
-            ApplicationWork a = new ApplicationWork();
-            a.Save_it();
+            (Owner as SuccessAuth).Save_it2();
+           
+           
             
             MessageBox.Show("Пользователь был добавлен в базу");
 

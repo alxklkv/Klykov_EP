@@ -25,16 +25,20 @@ namespace BuildClientApp.View
             InitializeComponent();
 
             var products = AppData.db.User.ToList();
-            Table.ItemsSource= products;
+            Table.ItemsSource = products;
+            
+            
 
         }
 
         private void Add_btn(object sender, RoutedEventArgs e)
         {
-            AddWindow window = new AddWindow();
-            window.Show();
-           
             
+            AddWindow ownerwindow = new AddWindow();
+            ownerwindow.Owner = this;
+            ownerwindow.Show();
+
+
 
         }
 
@@ -49,6 +53,15 @@ namespace BuildClientApp.View
                 Table.ItemsSource = AppData.db.User.ToList();
                 MessageBox.Show("Успешно");
             }
+        }
+
+        public void Save_it2()
+        {
+            
+                var products = AppData.db.User.ToList();
+                Table.ItemsSource = products;
+                Table.ItemsSource = AppData.db.User.ToList();
+            
         }
     }
 }
